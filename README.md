@@ -11,7 +11,7 @@ Aplikasi Konversi Suhu adalah aplikasi berbasis Java yang membantu pengguna meng
 
 ## Pembuat Aplikasi
 
-Salsa Alya Istiqamah - 2110010089 - Tugas 2
+Salsa Alya Istiqamah - 2210010089 - Tugas 2
 
 ## Fitur
 
