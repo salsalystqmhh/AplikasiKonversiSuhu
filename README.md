@@ -49,7 +49,7 @@ Aplikasi Konversi Suhu memiliki fitur-fitur berikut:
 - **KonversiSuhuHelper**: Kelas pembantu (helper) untuk menghitung konversi antar skala suhu. Pastikan kelas ini tersedia di proyek Anda agar konversi dapat berfungsi dengan benar.
 
 ## Demo
-
+![Demo GIF](img/tugas2.gif)
 
 note : Aplikasi ini dirancang untuk memberikan pengalaman yang mudah dan intuitif bagi pengguna yang ingin melakukan konversi suhu antar skala dengan cepat.
 
